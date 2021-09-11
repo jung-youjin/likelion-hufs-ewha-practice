@@ -1,3 +1,3 @@
 # likelion-hufs-ewha-practice
 
-Welcome!
+Welcome to discord bot practice
